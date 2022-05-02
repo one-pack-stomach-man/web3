@@ -1,0 +1,11 @@
+{
+  "name": "web3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:one-pack-stomach-man/web3.git",
+  "author": "luke <m18652844803@163.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.9.3"
+  }
+}
